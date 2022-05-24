@@ -1,0 +1,113 @@
+const Map<String, String> english = <String, String>{
+  'reactNeuro': 'React Neuro',
+  'welcomeToReact': 'Welcome to REACT Neuro',
+  'ok': 'Ok',
+  'signIn': 'Sign In',
+  'email': 'Email',
+  'enterEmail': 'Enter Email',
+  'pleaseEnterEmail': 'Please enter email',
+  'validEmail': 'Enter a valid email',
+  'password': 'Password',
+  'enterPassword': 'Enter Password',
+  'pleaseEnterPassword': 'Please enter password',
+  'makeSureYourPasswordMatch': 'Please make sure your passwords match.',
+  'forgotPassword': 'Forgot Password?',
+  'changePassword': 'Change Password',
+  'newPassword': 'New Password',
+  'enterNewPassword': 'Enter new password',
+  'confirmNewPassword': 'Confirm new password',
+  'showPassword': 'Show Password',
+  'currentPassword': 'Current Password',
+  'confirmPassword': 'Confirm Password',
+  'passwordInvalid':
+      'Length should be 8-70 characters and include: 1 uppercase, 1 lowercase '
+          '& 1 digit',
+  'pleaseEnterValidPassword': 'Please enter valid password',
+  'learnMore': 'Learn More',
+  'wantToLearnMore': 'Want to Learn More?',
+  'trainYourBrain':
+      '''Train your brain with our educational content, specially curated for your needs as per your test results.''',
+  'all': 'All',
+  'favorites': 'Favorites',
+  'mostViewed': 'Most Viewed',
+  'highest': 'Highest',
+  'thingsYouCanDoToPracticeEmotionalWellbeing':
+      '5 Things You Can Do to Practice Emotional Well - Being',
+  'howSleepHelps': 'How sleep helps you improve your brain health',
+  'howYourBrain': 'How your brain health and the foods you eat are linked',
+  'yourBrainAndSleep': 'Your Brain and Sleep',
+  'whyYourDietMatters': 'Why Your Diet Matters',
+  'youNeedAtleast7':
+      'You need at least 7 uninterrupted hours of sleep per night.',
+  'toPracticeAndImprove': 'To Practice And Improve Emotional Well-Being',
+  'thingsYouCanDo': 'Things You Can Do',
+  'trainings': 'Trainings',
+  'training': 'Training',
+  'trends': 'Trends',
+  'excellent': 'Excellent',
+  'average': 'Average',
+  'decreased': 'Decreased',
+  'metrics': 'Metrics',
+  'personalInformation': 'Personal Information',
+  'highlights': 'Highlights',
+  'description': 'Description',
+  'informationDialogDetails':
+      'These exams can provide information on saccadic movements, accuracy,'
+          ' reaction times, as well as the pupillary light reflex, '
+          'and synchronized coordination between eye and head movements. '
+          'The battery is often applied in the setting of an acute head injury '
+          'or concussion and can provide quantitative metrics to'
+          ' track symptoms throughout recovery.',
+  'myProfile': 'My Profile',
+  'sendInstruction': 'Send Instructions',
+  'weWillSendYouACode': 'We will send you a code on the email below',
+  'error': 'Error',
+  'success': 'Success',
+  'forgotPasswordSuccessMessage':
+      'Reset password link has been sent to your email address.',
+  'somethingWentWrong': 'Something went wrong',
+  'youAreGoingToChangePassword':
+      'Please enter the following details to change your password.',
+  'changePasswordSuccessMessage':
+      'Your password has been changed successfully.',
+  'internetNotAvailable': 'Please check your internet connection.',
+  'passwordComplexityMessage': '''
+Password must be 8 to 12 characters long, and must contains one or more uppercase, lowercase and digit.''',
+  'logout': 'Logout',
+  'phoneNumber': 'Phone Number',
+  'allowNotification': 'Allow Notifications',
+  'accountSetting': 'Account Settings',
+  'managePermissions': 'Manage Permissions',
+  'appSettings': 'App Settings',
+  'darkMode': 'Dark Mode',
+  'termsConditions': 'Terms And Conditions',
+  'editNickName': 'Edit Nickname',
+  'enterNickName': 'Enter Nickname',
+  'pleaseEnterNickName': 'Please enter nickname',
+  'nickName': 'Nickname',
+  'nicknameMessage':
+      '''You can set a nickname for this connection. This will only be visible to you.''',
+  'done': 'Done',
+  'nicknameUpdatedMsg': 'Nickname has been updated successfully',
+  'your': 'Your,',
+  'passwordMustContain':
+      'Password must contains one or more uppercase, lowercase and digit.',
+  'update': 'Update',
+  'lastUpdated': 'Last updated',
+  'summary': 'Summary',
+  'connections': 'Connections',
+  'youEnrolledInANewProgramm': 'You enrolled in a new program!',
+  'baseline': 'Baseline',
+  'healthyRange':
+      'Values above 30 are within the expected range for your demographic',
+  'belowExpectedRange': 'Below expected range',
+  'withinExpectedRange': 'Within expected range',
+  'graph': 'Graph',
+  'revokedAccessFrom':
+      'You have revoked access from Shaun of all your health data',
+  'grantedAccessTo': 'You have granted access to Shaun of all your health data',
+  'lastAccessed': 'Last accessed',
+  'signout': 'Sign Out',
+  'wantToQuit': 'Are you sure you want to exit the app?',
+  'performanceOverTime': 'Performance over time',
+};

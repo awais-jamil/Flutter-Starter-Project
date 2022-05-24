@@ -1,0 +1,104 @@
+name: mobile_app
+description: React Neuro application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.6+27
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  alice: ^0.2.5
+  dio: ^4.0.4
+  either_dart: ^0.1.4
+  environment_config: ^3.0.0
+  equatable: ^2.0.3
+  firebase_core: ^1.12.0
+  firebase_crashlytics: ^2.5.0
+  firebase_messaging: ^11.2.6
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.0.1
+  flutter_launcher_icons: ^0.9.2
+  flutter_localizations:
+    sdk: flutter
+  flutter_native_splash: ^2.1.5
+  flutter_typeahead: ^3.2.4
+  hydrated_bloc: ^8.0.0
+  intl: ^0.17.0
+  json_annotation: ^4.4.0
+  mocktail: ^0.3.0
+  package_info_plus: ^1.4.2
+  path_provider: ^2.0.9
+  percent_indicator: ^4.0.0
+  retrofit: ^3.0.1
+  shared_preferences: ^2.0.11
+  shimmer: ^2.0.0
+
+dev_dependencies:
+  bloc_test: ^9.0.2
+  build_runner: ^2.1.7
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  json_serializable: ^6.1.4
+  lint: ^1.8.1
+  retrofit_generator: ^3.0.1+1
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+environment_config:
+  fields:
+    baseUrl:
+      type: String
+      const: TRUE
+
+    isProd:
+      type: bool
+      const: TRUE
+
+  extensions:
+    prod: # your extension name
+      fields:
+        baseUrl:
+          type: String
+          const: TRUE
+          default: "https://"
+
+        isProd:
+          type: bool
+          const: TRUE
+          default: true
+
+    stage: # your extension name
+      fields:
+        baseUrl:
+          type: String
+          const: TRUE
+          default: "http://"
+
+        isProd:
+          type: bool
+          const: TRUE
+          default: false
+
+flutter_native_splash:
+  color: "#F9F9F9"
+  image: assets/images/logo.png
+  branding_mode: bottom
+  android_gravity: center_vertical
+  ios_content_mode: center
+  fullscreen: true
+
+flutter_icons:
+  image_path: "assets/images/app_icon.jpg"
+  android: true
+  ios: true

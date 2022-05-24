@@ -1,0 +1,580 @@
+{"suite":{"id":0,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/configurations/bloc/config_bloc_test.dart"},"type":"suite","time":0}
+{"test":{"id":1,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/configurations/bloc/config_bloc_test.dart","suiteID":0,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":1}
+{"suite":{"id":2,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/data/trend_repository_test.dart"},"type":"suite","time":8}
+{"test":{"id":3,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/data/trend_repository_test.dart","suiteID":2,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":8}
+{"suite":{"id":4,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/data/model/trends_response_model_test.dart"},"type":"suite","time":9}
+{"test":{"id":5,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/data/model/trends_response_model_test.dart","suiteID":4,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":9}
+{"suite":{"id":6,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/bloc/trend_bloc_test.dart"},"type":"suite","time":9}
+{"test":{"id":7,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/bloc/trend_bloc_test.dart","suiteID":6,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":9}
+{"suite":{"id":8,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/exception_handler/exception_handler_test.dart"},"type":"suite","time":9}
+{"test":{"id":9,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/exception_handler/exception_handler_test.dart","suiteID":8,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":9}
+{"suite":{"id":10,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart"},"type":"suite","time":10}
+{"test":{"id":11,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart","suiteID":10,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":10}
+{"count":41,"time":12,"type":"allSuites"}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62490/QtsR7hnbkLQ=/"}}]
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62495/7GtckCK5NQU=/"}}]
+{"testID":1,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":18862}
+{"group":{"id":12,"suiteID":0,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":3,"line":null,"column":null,"url":null},"type":"group","time":18870}
+{"test":{"id":13,"name":"Initialize ConfigBloc","suiteID":0,"groupIDs":[12],"metadata":{"skip":false,"skipReason":null},"line":13,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/configurations/bloc/config_bloc_test.dart"},"type":"testStart","time":18872}
+{"testID":13,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":19083}
+{"test":{"id":14,"name":"emits [ConfigState] when LocaleEvent is added.","suiteID":0,"groupIDs":[12],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":40,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/configurations/bloc/config_bloc_test.dart"},"type":"testStart","time":19084}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62501/v3srU8hpBAY=/"}}]
+{"testID":14,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":19204}
+{"test":{"id":15,"name":"emits [ConfigState] when ThemeEvent is added.","suiteID":0,"groupIDs":[12],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":82,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/configurations/bloc/config_bloc_test.dart"},"type":"testStart","time":19205}
+{"testID":15,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":19215}
+{"testID":3,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":19536}
+{"group":{"id":16,"suiteID":2,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":19536}
+{"test":{"id":17,"name":"(setUpAll)","suiteID":2,"groupIDs":[16],"metadata":{"skip":false,"skipReason":null},"line":10,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/data/trend_repository_test.dart"},"type":"testStart","time":19537}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62507/iq-UvIcNdBQ=/"}}]
+{"testID":17,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":19596}
+{"test":{"id":18,"name":"call getTrends only once","suiteID":2,"groupIDs":[16],"metadata":{"skip":false,"skipReason":null},"line":14,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/data/trend_repository_test.dart"},"type":"testStart","time":19635}
+{"testID":18,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":19678}
+{"test":{"id":19,"name":"call getTrends","suiteID":2,"groupIDs":[16],"metadata":{"skip":false,"skipReason":null},"line":25,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/data/trend_repository_test.dart"},"type":"testStart","time":19679}
+{"testID":19,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":19689}
+{"test":{"id":20,"name":"(tearDownAll)","suiteID":2,"groupIDs":[16],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":19690}
+{"testID":20,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":19694}
+{"testID":5,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":19818}
+{"group":{"id":21,"suiteID":4,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":19819}
+{"test":{"id":22,"name":"TrendsResponseModel toJson","suiteID":4,"groupIDs":[21],"metadata":{"skip":false,"skipReason":null},"line":23,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/data/model/trends_response_model_test.dart"},"type":"testStart","time":19819}
+{"testID":22,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":20431}
+{"test":{"id":23,"name":"TrendsResponseModel fromJson","suiteID":4,"groupIDs":[21],"metadata":{"skip":false,"skipReason":null},"line":46,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/data/model/trends_response_model_test.dart"},"type":"testStart","time":20480}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62518/fEeOApEXWWM=/"}}]
+{"testID":23,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":20498}
+{"testID":7,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":20906}
+{"group":{"id":24,"suiteID":6,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":3,"line":null,"column":null,"url":null},"type":"group","time":20907}
+{"test":{"id":25,"name":"(setUpAll)","suiteID":6,"groupIDs":[24],"metadata":{"skip":false,"skipReason":null},"line":15,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/bloc/trend_bloc_test.dart"},"type":"testStart","time":20907}
+{"testID":25,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":20935}
+{"test":{"id":26,"name":"Initialize AuthBloc","suiteID":6,"groupIDs":[24],"metadata":{"skip":false,"skipReason":null},"line":19,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/bloc/trend_bloc_test.dart"},"type":"testStart","time":20935}
+{"testID":26,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":20954}
+{"test":{"id":27,"name":"emits [TrendState.success] when MyEvent is added.","suiteID":6,"groupIDs":[24],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":23,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/bloc/trend_bloc_test.dart"},"type":"testStart","time":20955}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62522/uASDkYPgV08=/"}}]
+{"testID":27,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":21134}
+{"test":{"id":28,"name":"emits [TrendState.error] when GetTrendEvent is added.","suiteID":6,"groupIDs":[24],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":43,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/trend/bloc/trend_bloc_test.dart"},"type":"testStart","time":21134}
+{"testID":28,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":21158}
+{"test":{"id":29,"name":"(tearDownAll)","suiteID":6,"groupIDs":[24],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":21158}
+{"testID":29,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":21161}
+{"testID":9,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":21441}
+{"group":{"id":30,"suiteID":8,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":6,"line":null,"column":null,"url":null},"type":"group","time":21441}
+{"test":{"id":31,"name":"handleException on SocketException","suiteID":8,"groupIDs":[30],"metadata":{"skip":false,"skipReason":null},"line":9,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/exception_handler/exception_handler_test.dart"},"type":"testStart","time":21441}
+{"testID":31,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":21666}
+{"test":{"id":32,"name":"handleException on 401","suiteID":8,"groupIDs":[30],"metadata":{"skip":false,"skipReason":null},"line":19,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/exception_handler/exception_handler_test.dart"},"type":"testStart","time":21666}
+{"testID":32,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":21686}
+{"test":{"id":33,"name":"handleException on 400","suiteID":8,"groupIDs":[30],"metadata":{"skip":false,"skipReason":null},"line":44,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/exception_handler/exception_handler_test.dart"},"type":"testStart","time":21686}
+{"testID":33,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":21690}
+{"test":{"id":34,"name":"handleException on 400 parsing error","suiteID":8,"groupIDs":[30],"metadata":{"skip":false,"skipReason":null},"line":69,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/exception_handler/exception_handler_test.dart"},"type":"testStart","time":21690}
+{"testID":34,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":21699}
+{"test":{"id":35,"name":"handleException on 500","suiteID":8,"groupIDs":[30],"metadata":{"skip":false,"skipReason":null},"line":93,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/exception_handler/exception_handler_test.dart"},"type":"testStart","time":21699}
+{"testID":35,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":21712}
+{"test":{"id":36,"name":"handleException on null status code","suiteID":8,"groupIDs":[30],"metadata":{"skip":false,"skipReason":null},"line":117,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/exception_handler/exception_handler_test.dart"},"type":"testStart","time":21712}
+{"testID":36,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":21724}
+{"testID":11,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":22064}
+{"group":{"id":37,"suiteID":10,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":11,"line":null,"column":null,"url":null},"type":"group","time":22065}
+{"test":{"id":38,"name":"Initialize PreferencesService","suiteID":10,"groupIDs":[37],"metadata":{"skip":false,"skipReason":null},"line":6,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart"},"type":"testStart","time":22065}
+{"testID":38,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":22107}
+{"test":{"id":39,"name":"call setToken","suiteID":10,"groupIDs":[37],"metadata":{"skip":false,"skipReason":null},"line":10,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart"},"type":"testStart","time":22107}
+{"testID":39,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":22134}
+{"test":{"id":40,"name":"call getToken","suiteID":10,"groupIDs":[37],"metadata":{"skip":false,"skipReason":null},"line":15,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart"},"type":"testStart","time":22134}
+{"testID":40,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":22152}
+{"test":{"id":41,"name":"call clearToken","suiteID":10,"groupIDs":[37],"metadata":{"skip":false,"skipReason":null},"line":20,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart"},"type":"testStart","time":22152}
+{"testID":41,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":22157}
+{"test":{"id":42,"name":"call setLocale","suiteID":10,"groupIDs":[37],"metadata":{"skip":false,"skipReason":null},"line":25,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart"},"type":"testStart","time":22158}
+{"testID":42,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":22163}
+{"test":{"id":43,"name":"call getLocale","suiteID":10,"groupIDs":[37],"metadata":{"skip":false,"skipReason":null},"line":30,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart"},"type":"testStart","time":22164}
+{"testID":43,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":22169}
+{"test":{"id":44,"name":"call getLocale when no language set","suiteID":10,"groupIDs":[37],"metadata":{"skip":false,"skipReason":null},"line":35,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart"},"type":"testStart","time":22169}
+{"testID":44,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":22188}
+{"test":{"id":45,"name":"call saveUrlInfo","suiteID":10,"groupIDs":[37],"metadata":{"skip":false,"skipReason":null},"line":40,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart"},"type":"testStart","time":22188}
+{"testID":45,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":22193}
+{"test":{"id":46,"name":"call getUrlInfo","suiteID":10,"groupIDs":[37],"metadata":{"skip":false,"skipReason":null},"line":45,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart"},"type":"testStart","time":22194}
+{"testID":46,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":22199}
+{"test":{"id":47,"name":"call setLanguage","suiteID":10,"groupIDs":[37],"metadata":{"skip":false,"skipReason":null},"line":54,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart"},"type":"testStart","time":22199}
+{"testID":47,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":22204}
+{"test":{"id":48,"name":"call getLanguageStatus","suiteID":10,"groupIDs":[37],"metadata":{"skip":false,"skipReason":null},"line":59,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/services/preferences_service_test.dart"},"type":"testStart","time":22204}
+{"testID":48,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":22210}
+{"suite":{"id":49,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/empty_state_widget_test.dart"},"type":"suite","time":23396}
+{"test":{"id":50,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/empty_state_widget_test.dart","suiteID":49,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":23397}
+{"suite":{"id":51,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/text_fields_test.dart"},"type":"suite","time":23685}
+{"test":{"id":52,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/text_fields_test.dart","suiteID":51,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":23685}
+{"suite":{"id":53,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/api_state_widget_test.dart"},"type":"suite","time":23999}
+{"test":{"id":54,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/api_state_widget_test.dart","suiteID":53,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":24000}
+{"suite":{"id":55,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/error_state_widget_test.dart"},"type":"suite","time":24453}
+{"test":{"id":56,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/error_state_widget_test.dart","suiteID":55,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":24453}
+{"suite":{"id":57,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart"},"type":"suite","time":24508}
+{"test":{"id":58,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart","suiteID":57,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":24508}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62539/zIt8DNvHxmE=/"}}]
+{"suite":{"id":59,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"suite","time":24793}
+{"test":{"id":60,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart","suiteID":59,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":24794}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62544/BgYMA6gVGCw=/"}}]
+{"testID":50,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":25185}
+{"group":{"id":61,"suiteID":49,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":25186}
+{"test":{"id":62,"name":"EmptyState Widget isEmpty true","suiteID":49,"groupIDs":[61],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":6,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/empty_state_widget_test.dart"},"type":"testStart","time":25186}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62551/4nhBmMk391s=/"}}]
+{"testID":52,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":25590}
+{"group":{"id":63,"suiteID":51,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":4,"line":null,"column":null,"url":null},"type":"group","time":25590}
+{"group":{"id":64,"suiteID":51,"parentID":63,"name":"TextFieldWithoutLabel","metadata":{"skip":false,"skipReason":null},"testCount":1,"line":6,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/text_fields_test.dart"},"type":"group","time":25590}
+{"test":{"id":65,"name":"TextFieldWithoutLabel Instantiation","suiteID":51,"groupIDs":[63,64],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":7,"root_column":5,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/text_fields_test.dart"},"type":"testStart","time":25590}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62558/JGzQuLkgnwc=/"}}]
+{"testID":62,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":25912}
+{"test":{"id":66,"name":"EmptyState Widget isEmpty false","suiteID":49,"groupIDs":[61],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":26,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/empty_state_widget_test.dart"},"type":"testStart","time":25913}
+{"testID":66,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":25983}
+{"testID":54,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":26036}
+{"group":{"id":67,"suiteID":53,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":3,"line":null,"column":null,"url":null},"type":"group","time":26036}
+{"test":{"id":68,"name":"Find empty Widget","suiteID":53,"groupIDs":[67],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":10,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/api_state_widget_test.dart"},"type":"testStart","time":26036}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62563/voWoIcGGLc4=/"}}]
+{"testID":56,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":26355}
+{"group":{"id":69,"suiteID":55,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":1,"line":null,"column":null,"url":null},"type":"group","time":26355}
+{"test":{"id":70,"name":"ErrorStateWidget Widget isEmpty true","suiteID":55,"groupIDs":[69],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":6,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/error_state_widget_test.dart"},"type":"testStart","time":26355}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62566/zvjn_iQWXkg=/"}}]
+{"testID":68,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":26723}
+{"test":{"id":71,"name":"Find Shimmer","suiteID":53,"groupIDs":[67],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":27,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/api_state_widget_test.dart"},"type":"testStart","time":26724}
+{"testID":71,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":26811}
+{"test":{"id":72,"name":"Find ErrorWidget","suiteID":53,"groupIDs":[67],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":44,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/api_state_widget_test.dart"},"type":"testStart","time":26811}
+{"testID":72,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":26836}
+{"testID":65,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27057}
+{"group":{"id":73,"suiteID":51,"parentID":63,"name":"TextFieldWithLabel","metadata":{"skip":false,"skipReason":null},"testCount":1,"line":23,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/text_fields_test.dart"},"type":"group","time":27058}
+{"test":{"id":74,"name":"TextFieldWithLabel Instantiation","suiteID":51,"groupIDs":[63,73],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":24,"root_column":5,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/text_fields_test.dart"},"type":"testStart","time":27058}
+{"testID":74,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27176}
+{"group":{"id":75,"suiteID":51,"parentID":63,"name":"PasswordTextFieldWithLabel","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":45,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/text_fields_test.dart"},"type":"group","time":27176}
+{"test":{"id":76,"name":"PasswordTextFieldWithLabel Instantiation","suiteID":51,"groupIDs":[63,75],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":46,"root_column":5,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/text_fields_test.dart"},"type":"testStart","time":27176}
+{"testID":58,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":27189}
+{"group":{"id":77,"suiteID":57,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":8,"line":null,"column":null,"url":null},"type":"group","time":27190}
+{"group":{"id":78,"suiteID":57,"parentID":77,"name":"RnFilledButton","metadata":{"skip":false,"skipReason":null},"testCount":3,"line":6,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart"},"type":"group","time":27190}
+{"test":{"id":79,"name":"RnFilledButton find text","suiteID":57,"groupIDs":[77,78],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":7,"root_column":5,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart"},"type":"testStart","time":27190}
+{"testID":70,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27227}
+{"testID":76,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27328}
+{"test":{"id":80,"name":"PasswordTextFieldWithLabel password icon change on Icon tap","suiteID":51,"groupIDs":[63,75],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":66,"root_column":5,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/text_fields_test.dart"},"type":"testStart","time":27357}
+{"testID":60,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":27487}
+{"group":{"id":81,"suiteID":59,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":10,"line":null,"column":null,"url":null},"type":"group","time":27487}
+{"test":{"id":82,"name":"instantiate Validators","suiteID":59,"groupIDs":[81],"metadata":{"skip":false,"skipReason":null},"line":11,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"testStart","time":27487}
+{"testID":82,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27527}
+{"group":{"id":83,"suiteID":59,"parentID":81,"name":"test validateEmail","metadata":{"skip":false,"skipReason":null},"testCount":4,"line":15,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"group","time":27527}
+{"test":{"id":84,"name":"test validateEmail invalid email","suiteID":59,"groupIDs":[81,83],"metadata":{"skip":false,"skipReason":null},"line":16,"column":5,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"testStart","time":27528}
+{"testID":84,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27547}
+{"test":{"id":85,"name":"test validateEmail valid email","suiteID":59,"groupIDs":[81,83],"metadata":{"skip":false,"skipReason":null},"line":22,"column":5,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"testStart","time":27548}
+{"testID":85,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27552}
+{"test":{"id":86,"name":"test validateEmail validate empty string","suiteID":59,"groupIDs":[81,83],"metadata":{"skip":false,"skipReason":null},"line":26,"column":5,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"testStart","time":27552}
+{"testID":86,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27556}
+{"test":{"id":87,"name":"test validateEmail validate null value","suiteID":59,"groupIDs":[81,83],"metadata":{"skip":false,"skipReason":null},"line":32,"column":5,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"testStart","time":27556}
+{"testID":87,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27559}
+{"group":{"id":88,"suiteID":59,"parentID":81,"name":"test validatePassword","metadata":{"skip":false,"skipReason":null},"testCount":5,"line":39,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"group","time":27559}
+{"test":{"id":89,"name":"test validatePassword invalid password < 7","suiteID":59,"groupIDs":[81,88],"metadata":{"skip":false,"skipReason":null},"line":40,"column":5,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"testStart","time":27559}
+{"testID":89,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27564}
+{"test":{"id":90,"name":"test validatePassword invalid password > 70","suiteID":59,"groupIDs":[81,88],"metadata":{"skip":false,"skipReason":null},"line":47,"column":5,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"testStart","time":27565}
+{"testID":90,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27569}
+{"test":{"id":91,"name":"test validatePassword valid password","suiteID":59,"groupIDs":[81,88],"metadata":{"skip":false,"skipReason":null},"line":58,"column":5,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"testStart","time":27570}
+{"testID":91,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27573}
+{"test":{"id":92,"name":"test validatePassword validate empty string","suiteID":59,"groupIDs":[81,88],"metadata":{"skip":false,"skipReason":null},"line":62,"column":5,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"testStart","time":27573}
+{"testID":92,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27576}
+{"test":{"id":93,"name":"test validatePassword validate null value","suiteID":59,"groupIDs":[81,88],"metadata":{"skip":false,"skipReason":null},"line":69,"column":5,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/validators_test.dart"},"type":"testStart","time":27577}
+{"testID":93,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27580}
+{"testID":80,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":27688}
+{"testID":79,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":28305}
+{"test":{"id":94,"name":"RnFilledButton find loader","suiteID":57,"groupIDs":[77,78],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":19,"root_column":5,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart"},"type":"testStart","time":28305}
+{"testID":94,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":28426}
+{"test":{"id":95,"name":"RnFilledButton tap","suiteID":57,"groupIDs":[77,78],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":34,"root_column":5,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart"},"type":"testStart","time":28427}
+{"suite":{"id":96,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/functional_prog_helpers_test.dart"},"type":"suite","time":28465}
+{"test":{"id":97,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/functional_prog_helpers_test.dart","suiteID":96,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":28465}
+{"testID":95,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":28625}
+{"group":{"id":98,"suiteID":57,"parentID":77,"name":"RnOutlineButton","metadata":{"skip":false,"skipReason":null},"testCount":3,"line":56,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart"},"type":"group","time":28625}
+{"test":{"id":99,"name":"RnOutlineButton find text","suiteID":57,"groupIDs":[77,98],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":57,"root_column":5,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart"},"type":"testStart","time":28625}
+{"testID":99,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":28674}
+{"test":{"id":100,"name":"RnOutlineButton find loader","suiteID":57,"groupIDs":[77,98],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":69,"root_column":5,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart"},"type":"testStart","time":28674}
+{"testID":100,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":28715}
+{"test":{"id":101,"name":"RnOutlineButton tap","suiteID":57,"groupIDs":[77,98],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":84,"root_column":5,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart"},"type":"testStart","time":28716}
+{"testID":101,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":28759}
+{"group":{"id":102,"suiteID":57,"parentID":77,"name":"TxtButton","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":105,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart"},"type":"group","time":28759}
+{"test":{"id":103,"name":"TxtButton find text","suiteID":57,"groupIDs":[77,102],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":106,"root_column":5,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart"},"type":"testStart","time":28759}
+{"testID":103,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":28807}
+{"test":{"id":104,"name":"TxtButton tap","suiteID":57,"groupIDs":[77,102],"metadata":{"skip":false,"skipReason":null},"line":153,"column":5,"url":"package:flutter_test/src/widget_tester.dart","root_line":118,"root_column":5,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/core/widgets/buttons_test.dart"},"type":"testStart","time":28820}
+{"testID":104,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":28864}
+{"suite":{"id":105,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/forgot_password_repository_test.dart"},"type":"suite","time":29233}
+{"test":{"id":106,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/forgot_password_repository_test.dart","suiteID":105,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":29233}
+{"suite":{"id":107,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/models/get_reset_password_link_model_test.dart"},"type":"suite","time":29434}
+{"test":{"id":108,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/models/get_reset_password_link_model_test.dart","suiteID":107,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":29434}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62582/Hy5jW9ZSGwY=/"}}]
+{"suite":{"id":109,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/models/reset_password_response_test.dart"},"type":"suite","time":29699}
+{"test":{"id":110,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/models/reset_password_response_test.dart","suiteID":109,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":29699}
+{"suite":{"id":111,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/bloc/forgot_password_bloc_test.dart"},"type":"suite","time":29778}
+{"test":{"id":112,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/bloc/forgot_password_bloc_test.dart","suiteID":111,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":29778}
+{"testID":97,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":29912}
+{"group":{"id":113,"suiteID":96,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":1,"line":null,"column":null,"url":null},"type":"group","time":29912}
+{"test":{"id":114,"name":"test List<T>groupby","suiteID":96,"groupIDs":[113],"metadata":{"skip":false,"skipReason":null},"line":6,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/utils/functional_prog_helpers_test.dart"},"type":"testStart","time":29912}
+{"testID":114,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":29950}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62593/QPA_YevTQtc=/"}}]
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62599/l6zCf5jv5mM=/"}}]
+{"testID":106,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":30716}
+{"group":{"id":115,"suiteID":105,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":30716}
+{"test":{"id":116,"name":"(setUpAll)","suiteID":105,"groupIDs":[115],"metadata":{"skip":false,"skipReason":null},"line":14,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/forgot_password_repository_test.dart"},"type":"testStart","time":30717}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62603/E8qM6SGaXPg=/"}}]
+{"testID":116,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":30754}
+{"test":{"id":117,"name":"call getResetPasswordLink","suiteID":105,"groupIDs":[115],"metadata":{"skip":false,"skipReason":null},"line":19,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/forgot_password_repository_test.dart"},"type":"testStart","time":30754}
+{"testID":117,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":30788}
+{"test":{"id":118,"name":"call apiService.getResetPasswordLink only once","suiteID":105,"groupIDs":[115],"metadata":{"skip":false,"skipReason":null},"line":29,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/forgot_password_repository_test.dart"},"type":"testStart","time":30789}
+{"testID":118,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":30797}
+{"test":{"id":119,"name":"(tearDownAll)","suiteID":105,"groupIDs":[115],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":30798}
+{"testID":119,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":30801}
+{"suite":{"id":120,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/auth_repository_test.dart"},"type":"suite","time":30899}
+{"test":{"id":121,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/auth_repository_test.dart","suiteID":120,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":30899}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62608/itSWQgfYsGk=/"}}]
+{"testID":108,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":31160}
+{"group":{"id":122,"suiteID":107,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":31160}
+{"test":{"id":123,"name":"GetResetPasswordLinkModel toJson","suiteID":107,"groupIDs":[122],"metadata":{"skip":false,"skipReason":null},"line":8,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/models/get_reset_password_link_model_test.dart"},"type":"testStart","time":31160}
+{"testID":123,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":31215}
+{"test":{"id":124,"name":"GetResetPasswordApiRequest fromJson","suiteID":107,"groupIDs":[122],"metadata":{"skip":false,"skipReason":null},"line":17,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/models/get_reset_password_link_model_test.dart"},"type":"testStart","time":31225}
+{"testID":110,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":31229}
+{"group":{"id":125,"suiteID":109,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":31230}
+{"test":{"id":126,"name":"ResetPasswordResponse toJson","suiteID":109,"groupIDs":[125],"metadata":{"skip":false,"skipReason":null},"line":7,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/models/reset_password_response_test.dart"},"type":"testStart","time":31230}
+{"testID":124,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":31232}
+{"testID":126,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":31316}
+{"test":{"id":127,"name":"ResetPasswordResponse fromJson","suiteID":109,"groupIDs":[125],"metadata":{"skip":false,"skipReason":null},"line":11,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/data/models/reset_password_response_test.dart"},"type":"testStart","time":31345}
+{"testID":127,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":31373}
+{"testID":112,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":31529}
+{"group":{"id":128,"suiteID":111,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":3,"line":null,"column":null,"url":null},"type":"group","time":31529}
+{"test":{"id":129,"name":"(setUpAll)","suiteID":111,"groupIDs":[128],"metadata":{"skip":false,"skipReason":null},"line":16,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/bloc/forgot_password_bloc_test.dart"},"type":"testStart","time":31529}
+{"testID":129,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":31572}
+{"test":{"id":130,"name":"Initialize Forgot Password Bloc","suiteID":111,"groupIDs":[128],"metadata":{"skip":false,"skipReason":null},"line":20,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/bloc/forgot_password_bloc_test.dart"},"type":"testStart","time":31572}
+{"testID":130,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":31595}
+{"test":{"id":131,"name":"emits [ForgotPasswordSuccessState] when ForgotPasswordEvent is added.","suiteID":111,"groupIDs":[128],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":27,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/bloc/forgot_password_bloc_test.dart"},"type":"testStart","time":31596}
+{"testID":131,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":31665}
+{"test":{"id":132,"name":"emits [ForgotPasswordErrorState] when ForgotPasswordEvent is added.","suiteID":111,"groupIDs":[128],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":54,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/forgot_password/bloc/forgot_password_bloc_test.dart"},"type":"testStart","time":31665}
+{"testID":132,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":31685}
+{"test":{"id":133,"name":"(tearDownAll)","suiteID":111,"groupIDs":[128],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":31685}
+{"testID":133,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":31693}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62621/aQ2nQvhfpJk=/"}}]
+{"suite":{"id":134,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/models/sign_in_request_test.dart"},"type":"suite","time":32098}
+{"test":{"id":135,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/models/sign_in_request_test.dart","suiteID":134,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":32098}
+{"testID":121,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":32489}
+{"group":{"id":136,"suiteID":120,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":4,"line":null,"column":null,"url":null},"type":"group","time":32489}
+{"test":{"id":137,"name":"(setUpAll)","suiteID":120,"groupIDs":[136],"metadata":{"skip":false,"skipReason":null},"line":19,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/auth_repository_test.dart"},"type":"testStart","time":32489}
+{"testID":137,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":32537}
+{"test":{"id":138,"name":"Initialise AuthRepositoryImp","suiteID":120,"groupIDs":[136],"metadata":{"skip":false,"skipReason":null},"line":26,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/auth_repository_test.dart"},"type":"testStart","time":32537}
+{"testID":138,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":32549}
+{"test":{"id":139,"name":"signIn method success","suiteID":120,"groupIDs":[136],"metadata":{"skip":false,"skipReason":null},"line":33,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/auth_repository_test.dart"},"type":"testStart","time":32549}
+{"testID":139,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":32578}
+{"test":{"id":140,"name":"signIn method called only once","suiteID":120,"groupIDs":[136],"metadata":{"skip":false,"skipReason":null},"line":60,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/auth_repository_test.dart"},"type":"testStart","time":32578}
+{"testID":140,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":32587}
+{"test":{"id":141,"name":"logout","suiteID":120,"groupIDs":[136],"metadata":{"skip":false,"skipReason":null},"line":64,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/auth_repository_test.dart"},"type":"testStart","time":32587}
+{"testID":141,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":32592}
+{"test":{"id":142,"name":"(tearDownAll)","suiteID":120,"groupIDs":[136],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":32593}
+{"testID":142,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":32596}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62628/LtMD6UVvp6M=/"}}]
+{"suite":{"id":143,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/models/sign_in_response_test.dart"},"type":"suite","time":33294}
+{"test":{"id":144,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/models/sign_in_response_test.dart","suiteID":143,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":33294}
+{"testID":135,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":33558}
+{"group":{"id":145,"suiteID":134,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":33559}
+{"test":{"id":146,"name":"SignInRequest toJson","suiteID":134,"groupIDs":[145],"metadata":{"skip":false,"skipReason":null},"line":5,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/models/sign_in_request_test.dart"},"type":"testStart","time":33559}
+{"suite":{"id":147,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/bloc/auth_bloc_test.dart"},"type":"suite","time":33564}
+{"test":{"id":148,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/bloc/auth_bloc_test.dart","suiteID":147,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":33564}
+{"testID":146,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":33642}
+{"test":{"id":149,"name":"SignInRequest fromJson","suiteID":134,"groupIDs":[145],"metadata":{"skip":false,"skipReason":null},"line":13,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/models/sign_in_request_test.dart"},"type":"testStart","time":33657}
+{"testID":149,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":33673}
+{"suite":{"id":150,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/models/change_password_response_test.dart"},"type":"suite","time":33879}
+{"test":{"id":151,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/models/change_password_response_test.dart","suiteID":150,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":33879}
+{"suite":{"id":152,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/models/change_password_request_test.dart"},"type":"suite","time":34005}
+{"test":{"id":153,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/models/change_password_request_test.dart","suiteID":152,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":34005}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62639/ETHhbtmoLDw=/"}}]
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62647/ydfEkybaVX4=/"}}]
+{"testID":144,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":34746}
+{"group":{"id":154,"suiteID":143,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":34746}
+{"test":{"id":155,"name":"SignInResponse toJson","suiteID":143,"groupIDs":[154],"metadata":{"skip":false,"skipReason":null},"line":5,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/models/sign_in_response_test.dart"},"type":"testStart","time":34746}
+{"suite":{"id":156,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/change_password_repository_test.dart"},"type":"suite","time":34750}
+{"test":{"id":157,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/change_password_repository_test.dart","suiteID":156,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":34750}
+{"testID":155,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":34800}
+{"test":{"id":158,"name":"SignInResponse fromJson","suiteID":143,"groupIDs":[154],"metadata":{"skip":false,"skipReason":null},"line":25,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/data/models/sign_in_response_test.dart"},"type":"testStart","time":34800}
+{"testID":158,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":34815}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62651/U51tSIeTLjc=/"}}]
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62654/bP8oz1SwIwQ=/"}}]
+{"testID":148,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":35187}
+{"group":{"id":159,"suiteID":147,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":4,"line":null,"column":null,"url":null},"type":"group","time":35187}
+{"test":{"id":160,"name":"(setUpAll)","suiteID":147,"groupIDs":[159],"metadata":{"skip":false,"skipReason":null},"line":17,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/bloc/auth_bloc_test.dart"},"type":"testStart","time":35187}
+{"testID":160,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":35219}
+{"test":{"id":161,"name":"Initialize AuthBloc","suiteID":147,"groupIDs":[159],"metadata":{"skip":false,"skipReason":null},"line":21,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/bloc/auth_bloc_test.dart"},"type":"testStart","time":35219}
+{"testID":161,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":35241}
+{"test":{"id":162,"name":"emits [AuthState] when SignInEvent is added.","suiteID":147,"groupIDs":[159],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":25,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/bloc/auth_bloc_test.dart"},"type":"testStart","time":35241}
+{"testID":151,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":35344}
+{"group":{"id":163,"suiteID":150,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":35344}
+{"test":{"id":164,"name":"ChangeRequest toJson","suiteID":150,"groupIDs":[163],"metadata":{"skip":false,"skipReason":null},"line":7,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/models/change_password_response_test.dart"},"type":"testStart","time":35345}
+{"testID":164,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":35384}
+{"test":{"id":165,"name":"ChangePasswordResponse fromJson","suiteID":150,"groupIDs":[163],"metadata":{"skip":false,"skipReason":null},"line":11,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/models/change_password_response_test.dart"},"type":"testStart","time":35384}
+{"testID":162,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":35386}
+{"test":{"id":166,"name":"emits [AuthState.error] when SignInEvent is added.","suiteID":147,"groupIDs":[159],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":68,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/bloc/auth_bloc_test.dart"},"type":"testStart","time":35386}
+{"testID":165,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":35394}
+{"testID":166,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":35403}
+{"test":{"id":167,"name":"emits [AuthState] when LogoutEvent is added.","suiteID":147,"groupIDs":[159],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":90,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/sign_in/bloc/auth_bloc_test.dart"},"type":"testStart","time":35403}
+{"testID":167,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":35414}
+{"test":{"id":168,"name":"(tearDownAll)","suiteID":147,"groupIDs":[159],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":35414}
+{"testID":168,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":35417}
+{"testID":153,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":35571}
+{"group":{"id":169,"suiteID":152,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":35571}
+{"test":{"id":170,"name":"ChangeRequest toJson","suiteID":152,"groupIDs":[169],"metadata":{"skip":false,"skipReason":null},"line":13,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/models/change_password_request_test.dart"},"type":"testStart","time":35571}
+{"testID":170,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":35630}
+{"test":{"id":171,"name":"ChangePasswordResponse fromJson","suiteID":152,"groupIDs":[169],"metadata":{"skip":false,"skipReason":null},"line":23,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/models/change_password_request_test.dart"},"type":"testStart","time":35631}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62662/Sy4lxTnlOUc=/"}}]
+{"testID":171,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":35678}
+{"suite":{"id":172,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/bloc/change_password_bloc_test.dart"},"type":"suite","time":35713}
+{"test":{"id":173,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/bloc/change_password_bloc_test.dart","suiteID":172,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":35713}
+{"testID":157,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":36131}
+{"group":{"id":174,"suiteID":156,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":3,"line":null,"column":null,"url":null},"type":"group","time":36132}
+{"test":{"id":175,"name":"(setUpAll)","suiteID":156,"groupIDs":[174],"metadata":{"skip":false,"skipReason":null},"line":15,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/change_password_repository_test.dart"},"type":"testStart","time":36132}
+{"testID":175,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":36207}
+{"test":{"id":176,"name":"Initialise ChangePasswordRepository","suiteID":156,"groupIDs":[174],"metadata":{"skip":false,"skipReason":null},"line":21,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/change_password_repository_test.dart"},"type":"testStart","time":36207}
+{"testID":176,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":36220}
+{"test":{"id":177,"name":"call changePassword successfully","suiteID":156,"groupIDs":[174],"metadata":{"skip":false,"skipReason":null},"line":28,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/change_password_repository_test.dart"},"type":"testStart","time":36220}
+{"testID":177,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":36251}
+{"test":{"id":178,"name":"call changePassword only once","suiteID":156,"groupIDs":[174],"metadata":{"skip":false,"skipReason":null},"line":42,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/data/change_password_repository_test.dart"},"type":"testStart","time":36251}
+{"testID":178,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":36260}
+{"test":{"id":179,"name":"(tearDownAll)","suiteID":156,"groupIDs":[174],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":36261}
+{"testID":179,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":36264}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62674/97jv8v4eGf0=/"}}]
+{"suite":{"id":180,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/dashboard/bloc/dashboard_bloc_test.dart"},"type":"suite","time":36797}
+{"test":{"id":181,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/dashboard/bloc/dashboard_bloc_test.dart","suiteID":180,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":36797}
+{"testID":173,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":37158}
+{"group":{"id":182,"suiteID":172,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":4,"line":null,"column":null,"url":null},"type":"group","time":37158}
+{"test":{"id":183,"name":"(setUpAll)","suiteID":172,"groupIDs":[182],"metadata":{"skip":false,"skipReason":null},"line":16,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/bloc/change_password_bloc_test.dart"},"type":"testStart","time":37158}
+{"testID":183,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":37193}
+{"test":{"id":184,"name":"Initialize Connection Bloc","suiteID":172,"groupIDs":[182],"metadata":{"skip":false,"skipReason":null},"line":20,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/bloc/change_password_bloc_test.dart"},"type":"testStart","time":37194}
+{"testID":184,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":37254}
+{"test":{"id":185,"name":"emits [ChangePasswordState.success] when ChangePasswordEvent is added.","suiteID":172,"groupIDs":[182],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":28,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/bloc/change_password_bloc_test.dart"},"type":"testStart","time":37255}
+{"testID":185,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":37323}
+{"test":{"id":186,"name":"emits [ChangePasswordState.error] when SignInEvent is added.","suiteID":172,"groupIDs":[182],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":57,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/bloc/change_password_bloc_test.dart"},"type":"testStart","time":37323}
+{"testID":186,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":37344}
+{"test":{"id":187,"name":"emits [ChangePasswordState passwordObscure] when PasswordObscureEvent is added.","suiteID":172,"groupIDs":[182],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":90,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/change_password/bloc/change_password_bloc_test.dart"},"type":"testStart","time":37344}
+{"testID":187,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":37353}
+{"test":{"id":188,"name":"(tearDownAll)","suiteID":172,"groupIDs":[182],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":37353}
+{"testID":188,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":37356}
+{"suite":{"id":189,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/connections_repository_test.dart"},"type":"suite","time":37441}
+{"test":{"id":190,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/connections_repository_test.dart","suiteID":189,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":37441}
+{"suite":{"id":191,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/nickname_response_test.dart"},"type":"suite","time":37733}
+{"test":{"id":192,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/nickname_response_test.dart","suiteID":191,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":37734}
+{"suite":{"id":193,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/connections_request_test.dart"},"type":"suite","time":37741}
+{"test":{"id":194,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/connections_request_test.dart","suiteID":193,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":37741}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62682/NJXr4FcOKAU=/"}}]
+{"testID":181,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":38273}
+{"group":{"id":195,"suiteID":180,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":3,"line":null,"column":null,"url":null},"type":"group","time":38273}
+{"test":{"id":196,"name":"Intialize DashboardBloc","suiteID":180,"groupIDs":[195],"metadata":{"skip":false,"skipReason":null},"line":9,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/dashboard/bloc/dashboard_bloc_test.dart"},"type":"testStart","time":38273}
+{"testID":196,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":38324}
+{"test":{"id":197,"name":"emits [DashboardBottomBarIndex] when TabChangedEvent is added.","suiteID":180,"groupIDs":[195],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":14,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/dashboard/bloc/dashboard_bloc_test.dart"},"type":"testStart","time":38324}
+{"suite":{"id":198,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/update_nickname_request_model_test.dart"},"type":"suite","time":38335}
+{"test":{"id":199,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/update_nickname_request_model_test.dart","suiteID":198,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":38335}
+{"testID":197,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":38420}
+{"test":{"id":200,"name":"emits [DashboardBottomBarIndex] when TabChangedEvent is added. on Usertype Connections","suiteID":180,"groupIDs":[195],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":28,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/dashboard/bloc/dashboard_bloc_test.dart"},"type":"testStart","time":38431}
+{"testID":200,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":38439}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62692/PwYAAR9DM1E=/"}}]
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62698/rZ83dgSrmmM=/"}}]
+{"testID":190,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":38936}
+{"group":{"id":201,"suiteID":189,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":4,"line":null,"column":null,"url":null},"type":"group","time":38936}
+{"test":{"id":202,"name":"(setUpAll)","suiteID":189,"groupIDs":[201],"metadata":{"skip":false,"skipReason":null},"line":18,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/connections_repository_test.dart"},"type":"testStart","time":38937}
+{"testID":202,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":38968}
+{"test":{"id":203,"name":"call getConnections only once","suiteID":189,"groupIDs":[201],"metadata":{"skip":false,"skipReason":null},"line":23,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/connections_repository_test.dart"},"type":"testStart","time":38968}
+{"testID":203,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":39009}
+{"test":{"id":204,"name":"call getConnections","suiteID":189,"groupIDs":[201],"metadata":{"skip":false,"skipReason":null},"line":32,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/connections_repository_test.dart"},"type":"testStart","time":39010}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62703/MQpPNV7bilM=/"}}]
+{"testID":204,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":39017}
+{"test":{"id":205,"name":"call updateNickname only once","suiteID":189,"groupIDs":[201],"metadata":{"skip":false,"skipReason":null},"line":40,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/connections_repository_test.dart"},"type":"testStart","time":39018}
+{"testID":205,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":39033}
+{"test":{"id":206,"name":"call updateNickname","suiteID":189,"groupIDs":[201],"metadata":{"skip":false,"skipReason":null},"line":49,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/connections_repository_test.dart"},"type":"testStart","time":39033}
+{"testID":206,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":39038}
+{"test":{"id":207,"name":"(tearDownAll)","suiteID":189,"groupIDs":[201],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":39038}
+{"testID":207,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":39041}
+{"testID":192,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":39164}
+{"group":{"id":208,"suiteID":191,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":39164}
+{"test":{"id":209,"name":"NickNameResponse toJson","suiteID":191,"groupIDs":[208],"metadata":{"skip":false,"skipReason":null},"line":7,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/nickname_response_test.dart"},"type":"testStart","time":39164}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62707/a7HwRAOyXuA=/"}}]
+{"testID":209,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":39210}
+{"test":{"id":210,"name":"NickNameResponse fromJson","suiteID":191,"groupIDs":[208],"metadata":{"skip":false,"skipReason":null},"line":11,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/nickname_response_test.dart"},"type":"testStart","time":39210}
+{"testID":210,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":39217}
+{"suite":{"id":211,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/connections_response_test.dart"},"type":"suite","time":39446}
+{"test":{"id":212,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/connections_response_test.dart","suiteID":211,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":39446}
+{"testID":194,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":39448}
+{"group":{"id":213,"suiteID":193,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":39448}
+{"test":{"id":214,"name":"ConnectionsRequest toJson","suiteID":193,"groupIDs":[213],"metadata":{"skip":false,"skipReason":null},"line":8,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/connections_request_test.dart"},"type":"testStart","time":39448}
+{"testID":214,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":39505}
+{"test":{"id":215,"name":"ConnectionsRequest fromJson","suiteID":193,"groupIDs":[213],"metadata":{"skip":false,"skipReason":null},"line":12,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/connections_request_test.dart"},"type":"testStart","time":39506}
+{"testID":215,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":39514}
+{"testID":199,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":39699}
+{"group":{"id":216,"suiteID":198,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":39699}
+{"test":{"id":217,"name":"UpdateNicknameRequestModel toJson","suiteID":198,"groupIDs":[216],"metadata":{"skip":false,"skipReason":null},"line":8,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/update_nickname_request_model_test.dart"},"type":"testStart","time":39699}
+{"testID":217,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":39761}
+{"test":{"id":218,"name":"UpdateNicknameRequestModel fromJson","suiteID":198,"groupIDs":[216],"metadata":{"skip":false,"skipReason":null},"line":14,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/update_nickname_request_model_test.dart"},"type":"testStart","time":39772}
+{"testID":218,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":39779}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62720/xSaAXz7y5vM=/"}}]
+{"suite":{"id":219,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/bloc/connections_bloc_test.dart"},"type":"suite","time":40508}
+{"test":{"id":220,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/bloc/connections_bloc_test.dart","suiteID":219,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":40508}
+{"testID":212,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":40831}
+{"group":{"id":221,"suiteID":211,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":40831}
+{"test":{"id":222,"name":"ConnectionResponse toJson","suiteID":211,"groupIDs":[221],"metadata":{"skip":false,"skipReason":null},"line":21,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/connections_response_test.dart"},"type":"testStart","time":40831}
+{"testID":222,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":40878}
+{"test":{"id":223,"name":"ConnectionResponse fromJson","suiteID":211,"groupIDs":[221],"metadata":{"skip":false,"skipReason":null},"line":42,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/data/models/connections_response_test.dart"},"type":"testStart","time":40879}
+{"testID":223,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":40896}
+{"suite":{"id":224,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/models/domain_metrics_test.dart"},"type":"suite","time":41143}
+{"test":{"id":225,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/models/domain_metrics_test.dart","suiteID":224,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":41143}
+{"suite":{"id":226,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/models/graph_response_test.dart"},"type":"suite","time":41309}
+{"test":{"id":227,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/models/graph_response_test.dart","suiteID":226,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":41309}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62727/9DsSPr5VDeM=/"}}]
+{"suite":{"id":228,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/trend_details_repository_test.dart"},"type":"suite","time":41578}
+{"test":{"id":229,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/trend_details_repository_test.dart","suiteID":228,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":41578}
+{"suite":{"id":230,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/bloc/trend_details_bloc_test.dart"},"type":"suite","time":41678}
+{"test":{"id":231,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/bloc/trend_details_bloc_test.dart","suiteID":230,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":41678}
+{"testID":220,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":41834}
+{"group":{"id":232,"suiteID":219,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":5,"line":null,"column":null,"url":null},"type":"group","time":41834}
+{"test":{"id":233,"name":"(setUpAll)","suiteID":219,"groupIDs":[232],"metadata":{"skip":false,"skipReason":null},"line":19,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/bloc/connections_bloc_test.dart"},"type":"testStart","time":41834}
+{"testID":233,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":41861}
+{"test":{"id":234,"name":"Initialize Connection Bloc","suiteID":219,"groupIDs":[232],"metadata":{"skip":false,"skipReason":null},"line":23,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/bloc/connections_bloc_test.dart"},"type":"testStart","time":41861}
+{"testID":234,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":41880}
+{"test":{"id":235,"name":"emits [ConnectionsState.ApiSuccessState] when GetConnectionsEvent is added.","suiteID":219,"groupIDs":[232],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":30,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/bloc/connections_bloc_test.dart"},"type":"testStart","time":41881}
+{"testID":235,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":41932}
+{"test":{"id":236,"name":"emits [ConnectionsState.ApiErrorState] when GetConnectionsEvent is added.","suiteID":219,"groupIDs":[232],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":56,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/bloc/connections_bloc_test.dart"},"type":"testStart","time":41932}
+{"testID":236,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":41946}
+{"test":{"id":237,"name":"emits [ConnectionsState.ApiSuccessState] when UpdateNicknameEvent is added.","suiteID":219,"groupIDs":[232],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":74,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/bloc/connections_bloc_test.dart"},"type":"testStart","time":41946}
+{"testID":237,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":42011}
+{"test":{"id":238,"name":"emits [ConnectionsState.ApiErrorState] when UpdateNicknameEvent is added.","suiteID":219,"groupIDs":[232],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":94,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/connections/bloc/connections_bloc_test.dart"},"type":"testStart","time":42023}
+{"testID":238,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":42032}
+{"test":{"id":239,"name":"(tearDownAll)","suiteID":219,"groupIDs":[232],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":42032}
+{"testID":239,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":42035}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62738/a8KLUtpuI_M=/"}}]
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62745/0fCyTpwiVB0=/"}}]
+{"testID":225,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":42542}
+{"group":{"id":240,"suiteID":224,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":42542}
+{"test":{"id":241,"name":"DomainMetricsResponse toJson","suiteID":224,"groupIDs":[240],"metadata":{"skip":false,"skipReason":null},"line":5,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/models/domain_metrics_test.dart"},"type":"testStart","time":42542}
+{"testID":241,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":42583}
+{"test":{"id":242,"name":"DomainMetricsResponse fromJson","suiteID":224,"groupIDs":[240],"metadata":{"skip":false,"skipReason":null},"line":40,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/models/domain_metrics_test.dart"},"type":"testStart","time":42584}
+{"testID":242,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":42608}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62750/ky1Wztkv4Io=/"}}]
+{"suite":{"id":243,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/manage_connections_repository_test.dart"},"type":"suite","time":42828}
+{"test":{"id":244,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/manage_connections_repository_test.dart","suiteID":243,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":42828}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62756/nnmYNfDczrQ=/"}}]
+{"testID":227,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":42903}
+{"group":{"id":245,"suiteID":226,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":42903}
+{"test":{"id":246,"name":"GraphResponse toJson","suiteID":226,"groupIDs":[245],"metadata":{"skip":false,"skipReason":null},"line":5,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/models/graph_response_test.dart"},"type":"testStart","time":42903}
+{"testID":246,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":42960}
+{"test":{"id":247,"name":"GraphResponse fromJson","suiteID":226,"groupIDs":[245],"metadata":{"skip":false,"skipReason":null},"line":25,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/models/graph_response_test.dart"},"type":"testStart","time":42960}
+{"testID":247,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":42967}
+{"testID":229,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":43096}
+{"group":{"id":248,"suiteID":228,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":4,"line":null,"column":null,"url":null},"type":"group","time":43096}
+{"test":{"id":249,"name":"(setUpAll)","suiteID":228,"groupIDs":[248],"metadata":{"skip":false,"skipReason":null},"line":12,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/trend_details_repository_test.dart"},"type":"testStart","time":43096}
+{"testID":249,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":43140}
+{"test":{"id":250,"name":"call getGraphData only once","suiteID":228,"groupIDs":[248],"metadata":{"skip":false,"skipReason":null},"line":16,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/trend_details_repository_test.dart"},"type":"testStart","time":43145}
+{"testID":250,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":43264}
+{"test":{"id":251,"name":"call getGraphData","suiteID":228,"groupIDs":[248],"metadata":{"skip":false,"skipReason":null},"line":28,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/trend_details_repository_test.dart"},"type":"testStart","time":43264}
+{"testID":251,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":43284}
+{"test":{"id":252,"name":"call getMetrics only once","suiteID":228,"groupIDs":[248],"metadata":{"skip":false,"skipReason":null},"line":46,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/trend_details_repository_test.dart"},"type":"testStart","time":43284}
+{"testID":252,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":43289}
+{"test":{"id":253,"name":"call getMetrics","suiteID":228,"groupIDs":[248],"metadata":{"skip":false,"skipReason":null},"line":59,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/data/trend_details_repository_test.dart"},"type":"testStart","time":43290}
+{"testID":253,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":43294}
+{"test":{"id":254,"name":"(tearDownAll)","suiteID":228,"groupIDs":[248],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":43294}
+{"testID":254,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":43297}
+{"testID":231,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":43451}
+{"group":{"id":255,"suiteID":230,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":4,"line":null,"column":null,"url":null},"type":"group","time":43451}
+{"test":{"id":256,"name":"(setUpAll)","suiteID":230,"groupIDs":[255],"metadata":{"skip":false,"skipReason":null},"line":16,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/bloc/trend_details_bloc_test.dart"},"type":"testStart","time":43451}
+{"testID":256,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":43482}
+{"test":{"id":257,"name":"Initialize AuthBloc","suiteID":230,"groupIDs":[255],"metadata":{"skip":false,"skipReason":null},"line":20,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/bloc/trend_details_bloc_test.dart"},"type":"testStart","time":43482}
+{"testID":257,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":43504}
+{"test":{"id":258,"name":"emits [TrendDetailsState.success] when GetGraphEvent is added.","suiteID":230,"groupIDs":[255],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":27,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/bloc/trend_details_bloc_test.dart"},"type":"testStart","time":43505}
+{"testID":258,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":43565}
+{"test":{"id":259,"name":"emits [TrendDetailsState.success] when GetMetricsEvent is added.","suiteID":230,"groupIDs":[255],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":46,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/bloc/trend_details_bloc_test.dart"},"type":"testStart","time":43565}
+{"testID":259,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":43574}
+{"test":{"id":260,"name":"getDateTimeLabel","suiteID":230,"groupIDs":[255],"metadata":{"skip":false,"skipReason":null},"line":67,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/trend_details/bloc/trend_details_bloc_test.dart"},"type":"testStart","time":43574}
+{"testID":260,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":43617}
+{"test":{"id":261,"name":"(tearDownAll)","suiteID":230,"groupIDs":[255],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":43617}
+{"testID":261,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":43621}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62769/pY6Qbepv6RU=/"}}]
+{"suite":{"id":262,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/models/manage_connection_response_test.dart"},"type":"suite","time":44278}
+{"test":{"id":263,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/models/manage_connection_response_test.dart","suiteID":262,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":44278}
+{"testID":244,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":44421}
+{"group":{"id":264,"suiteID":243,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":4,"line":null,"column":null,"url":null},"type":"group","time":44422}
+{"test":{"id":265,"name":"(setUpAll)","suiteID":243,"groupIDs":[264],"metadata":{"skip":false,"skipReason":null},"line":15,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/manage_connections_repository_test.dart"},"type":"testStart","time":44422}
+{"testID":265,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":44457}
+{"test":{"id":266,"name":"call getMyConnections only once","suiteID":243,"groupIDs":[264],"metadata":{"skip":false,"skipReason":null},"line":20,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/manage_connections_repository_test.dart"},"type":"testStart","time":44457}
+{"testID":266,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":44497}
+{"test":{"id":267,"name":"call getMyConnections","suiteID":243,"groupIDs":[264],"metadata":{"skip":false,"skipReason":null},"line":31,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/manage_connections_repository_test.dart"},"type":"testStart","time":44497}
+{"testID":267,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":44504}
+{"test":{"id":268,"name":"call changeAssociateAccessStatus only once","suiteID":243,"groupIDs":[264],"metadata":{"skip":false,"skipReason":null},"line":48,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/manage_connections_repository_test.dart"},"type":"testStart","time":44504}
+{"testID":268,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":44513}
+{"test":{"id":269,"name":"call changeAssociateAccessStatus","suiteID":243,"groupIDs":[264],"metadata":{"skip":false,"skipReason":null},"line":58,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/manage_connections_repository_test.dart"},"type":"testStart","time":44513}
+{"testID":269,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":44520}
+{"test":{"id":270,"name":"(tearDownAll)","suiteID":243,"groupIDs":[264],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":44520}
+{"testID":270,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":44526}
+{"suite":{"id":271,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/models/connection_access_response_test.dart"},"type":"suite","time":45073}
+{"test":{"id":272,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/models/connection_access_response_test.dart","suiteID":271,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":45073}
+{"suite":{"id":273,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/models/associate_access_status_model_test.dart"},"type":"suite","time":45326}
+{"test":{"id":274,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/models/associate_access_status_model_test.dart","suiteID":273,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":45326}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62780/yvUanN3Q6bA=/"}}]
+{"suite":{"id":275,"platform":"vm","path":"/Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/bloc/manage_connections_bloc_test.dart"},"type":"suite","time":45612}
+{"test":{"id":276,"name":"loading /Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/bloc/manage_connections_bloc_test.dart","suiteID":275,"groupIDs":[],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":45612}
+{"testID":263,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":45976}
+{"group":{"id":277,"suiteID":262,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":45976}
+{"test":{"id":278,"name":"ManageConnectionResponse toJson","suiteID":262,"groupIDs":[277],"metadata":{"skip":false,"skipReason":null},"line":26,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/models/manage_connection_response_test.dart"},"type":"testStart","time":45976}
+{"testID":278,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":46020}
+{"test":{"id":279,"name":"ManageConnectionResponse fromJson","suiteID":262,"groupIDs":[277],"metadata":{"skip":false,"skipReason":null},"line":49,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/models/manage_connection_response_test.dart"},"type":"testStart","time":46020}
+{"testID":279,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":46036}
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62790/WKaKPhHJKuU=/"}}]
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62795/VJupCf7iQBc=/"}}]
+
+[{"event":"test.startedProcess","params":{"observatoryUri":"http://127.0.0.1:62799/M7Rt35y0QIc=/"}}]
+{"testID":272,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":46421}
+{"group":{"id":280,"suiteID":271,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":46421}
+{"test":{"id":281,"name":"ConnectionResponse toJson","suiteID":271,"groupIDs":[280],"metadata":{"skip":false,"skipReason":null},"line":7,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/models/connection_access_response_test.dart"},"type":"testStart","time":46421}
+{"testID":281,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":46453}
+{"test":{"id":282,"name":"ConnectionResponse fromJson","suiteID":271,"groupIDs":[280],"metadata":{"skip":false,"skipReason":null},"line":11,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/models/connection_access_response_test.dart"},"type":"testStart","time":46454}
+{"testID":282,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":46459}
+{"testID":274,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":46579}
+{"group":{"id":283,"suiteID":273,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":2,"line":null,"column":null,"url":null},"type":"group","time":46579}
+{"test":{"id":284,"name":"AssociateAccessStatusRequest toJson","suiteID":273,"groupIDs":[283],"metadata":{"skip":false,"skipReason":null},"line":11,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/models/associate_access_status_model_test.dart"},"type":"testStart","time":46579}
+{"testID":284,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":46612}
+{"test":{"id":285,"name":"AssociateAccessStatusRequest fromJson","suiteID":273,"groupIDs":[283],"metadata":{"skip":false,"skipReason":null},"line":17,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/data/models/associate_access_status_model_test.dart"},"type":"testStart","time":46612}
+{"testID":285,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":46617}
+{"testID":276,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":46779}
+{"group":{"id":286,"suiteID":275,"parentID":null,"name":"","metadata":{"skip":false,"skipReason":null},"testCount":4,"line":null,"column":null,"url":null},"type":"group","time":46779}
+{"test":{"id":287,"name":"(setUpAll)","suiteID":275,"groupIDs":[286],"metadata":{"skip":false,"skipReason":null},"line":18,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/bloc/manage_connections_bloc_test.dart"},"type":"testStart","time":46779}
+{"testID":287,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":46809}
+{"test":{"id":288,"name":"Initialise bloc","suiteID":275,"groupIDs":[286],"metadata":{"skip":false,"skipReason":null},"line":38,"column":3,"url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/bloc/manage_connections_bloc_test.dart"},"type":"testStart","time":46809}
+{"testID":288,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":46830}
+{"test":{"id":289,"name":"emits [ManageConnectionState.ApiSuccessState] when GetMyConnectionsEvent is added.","suiteID":275,"groupIDs":[286],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":45,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/bloc/manage_connections_bloc_test.dart"},"type":"testStart","time":46830}
+{"testID":289,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":46888}
+{"test":{"id":290,"name":"emits [ManageConnectionState.ApiErrorState] when GetMyConnectionsEvent is added.","suiteID":275,"groupIDs":[286],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":65,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/bloc/manage_connections_bloc_test.dart"},"type":"testStart","time":46888}
+{"testID":290,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":46905}
+{"test":{"id":291,"name":"emits [ChangeConnectionStatusState] when ChangeConnectionAccessEvent is added.","suiteID":275,"groupIDs":[286],"metadata":{"skip":false,"skipReason":null},"line":153,"column":8,"url":"package:bloc_test/src/bloc_test.dart","root_line":82,"root_column":3,"root_url":"file:///Users/vend-hassan/Documents/vd_projects/mobile_app/mobile_app/test/modules/manage_connections/bloc/manage_connections_bloc_test.dart"},"type":"testStart","time":46905}
+{"testID":291,"result":"success","skipped":false,"hidden":false,"type":"testDone","time":46918}
+{"test":{"id":292,"name":"(tearDownAll)","suiteID":275,"groupIDs":[286],"metadata":{"skip":false,"skipReason":null},"line":null,"column":null,"url":null},"type":"testStart","time":46918}
+{"testID":292,"result":"success","skipped":false,"hidden":true,"type":"testDone","time":46921}
+{"success":true,"type":"done","time":48604}
